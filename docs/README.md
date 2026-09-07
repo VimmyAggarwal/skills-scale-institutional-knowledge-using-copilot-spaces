@@ -37,3 +37,7 @@ OctoAcme follows a structured, iterative approach to project management that emp
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
+
+---
+
+Prepared for PR to close issue #2.
